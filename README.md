@@ -27,7 +27,7 @@ To write a python program to simulate the Zomibie Survival game using A* Search
 11.  Stop the program
 
  ### Program:
-
+```
 
 import pygame
 import heapq
@@ -165,7 +165,7 @@ if _name_ == "_main_":
 
 
 
-
+```
 
 ### Output:
 
